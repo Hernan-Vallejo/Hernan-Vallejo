@@ -27,7 +27,7 @@ Soy Analista QA y Analista de Datos
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
+| Repository Performance Stats - Last 28 days |
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
 
@@ -39,6 +39,6 @@ Soy Analista QA y Analista de Datos
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
-| Pull Request Size | Pull Request Lifecycle |
+| Pull Request Size | Pull Request Lifecycle | 
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
