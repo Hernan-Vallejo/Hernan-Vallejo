@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+<h1 align="center">Hola soy Hernan Vallejo👁️</h1>
 
 <div align="center">
 <a href="https://ossinsight.io">
@@ -28,9 +28,7 @@
 
 ## Introduction
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
- 
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
+Soy Analista QA y Analista de Datos
 
 ## Embed Real-time Widget in Repo's / Personal README.md within 30s!
 
