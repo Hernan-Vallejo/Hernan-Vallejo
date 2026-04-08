@@ -16,14 +16,6 @@
   <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
   •
   <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
 </h3>
 
 ## Introduction
