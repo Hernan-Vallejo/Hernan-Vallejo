@@ -1,4 +1,4 @@
-<h1 align="center">Hola soy Hernan Vallejo</h1>
+<h1 align="center">Hernan Vallejo</h1>
 
 <div align="center">
 <a href="https://ossinsight.io">
@@ -20,7 +20,8 @@
 
 ## Introduction
 
-Soy Analista QA y Analista de Datos
+- Analista QA
+- Analista de Datos
 
 
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
